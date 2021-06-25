@@ -1,4 +1,4 @@
-# @alexanderdavide/prettier-config
+# @alexanderdavide/prettier-config [![npm](https://img.shields.io/npm/v/@alexanderdavide/prettier-config?style=for-the-badge)](https://www.npmjs.com/package/@alexanderdavide/prettier-config)
 
 This is my preferred prettier configuration as an installable node package.
 
@@ -17,4 +17,13 @@ Add to `package.json`:
   // ...
   "prettier": "@alexanderdavide/prettier-config"
 }
+```
+
+To extend or override the configuration, use `.prettierrc.js`:
+
+```
+module.exports = {
+	...require("@alexanderdavide/prettier-config"),
+	semi: false,
+};
 ```
