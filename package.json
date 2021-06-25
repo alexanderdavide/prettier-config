@@ -1,0 +1,22 @@
+{
+  "name": "@alexanderdavide/prettier-config",
+  "version": "1.0.0",
+  "description": "preferred prettier configuration of alexanderdavide",
+  "main": ".prettierrc",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexanderdavide/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "prettier",
+    "configuration",
+    "npm"
+  ],
+  "author": "Alexander Eble <alexeble1998@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexanderdavide/prettier-config/issues"
+  },
+  "homepage": "https://github.com/alexanderdavide/prettier-config#readme"
+}
