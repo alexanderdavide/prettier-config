@@ -1,6 +1,6 @@
 {
   "name": "@alexanderdavide/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "preferred prettier configuration of alexanderdavide",
   "main": ".prettierrc",
   "repository": {
